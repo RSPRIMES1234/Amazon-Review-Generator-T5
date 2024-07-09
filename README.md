@@ -18,7 +18,7 @@ This Python script fine-tunes a T5 model on Amazon review data for software prod
 
 1. Clone this repository:
 ```python
-git clone https://github.com/RSPRIMES1234/amazon-review-generator-t5
+git clone https://github.com/RSPRIMES1234/Amazon-Review-Generator-T5
 ```
 2. Install the required packages:
 ```python
