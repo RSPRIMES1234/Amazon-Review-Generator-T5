@@ -1,5 +1,5 @@
 # Amazon-Review-Generator-t5
-This project uses a fine-tuned T5 model to generate Amazon product reviews based on the product title and star rating.  
+This project uses a fine-tuned T5 model [RSPRIMES1234/Amazon-Review-Generator-T5](https://huggingface.co/RSPRIMES1234/Amazon-Review-Generator-T5) to generate Amazon product reviews based on the product title and star rating.  
 ## Description  
 
 This Python script fine-tunes a T5 model on Amazon review data for software products. It can then generate realistic product reviews given a product title and star rating.
