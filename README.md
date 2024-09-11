@@ -6,7 +6,7 @@ This Python script fine-tunes a T5 model on Amazon review data for software prod
 
 ## Prerequisites
 
-- Python 3.6+
+- Python 3.7+
 - PyTorch
 - Transformers
 - Datasets
